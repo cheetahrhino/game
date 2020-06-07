@@ -1,4 +1,4 @@
-# Ultimate Ninja Combat Game!!! 
+# Ultimate Gun Combat Game!!! 
 # The player fights against the computer, and the winner gets bragging rights
 
 
