@@ -1,6 +1,6 @@
 # Ultimate Gun Combat Game!!! 
 # The player fights against the computer, and the winner gets bragging rights
-
+# Author: Cheetah Rhino
 
 import random, sys # random for generating random attacks
                    # sys for exiting the program when user quits.
